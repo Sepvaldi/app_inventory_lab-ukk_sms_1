@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246266344655",
+    "project_id": "inventaris-alat-lab-d3fcb",
+    "storage_bucket": "inventaris-alat-lab-d3fcb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246266344655:android:51fa86764b5d9789a9f3ba",
+        "android_client_info": {
+          "package_name": "com.example.ukk_semester1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwapTQt8GBd65jpe6vrv7pQOqiIcovRZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
